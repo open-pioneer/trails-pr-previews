@@ -1,0 +1,1 @@
+import{aR as e}from"./DeQgxpbz4mf0.js";const a=e("div",{base:{display:"flex",alignItems:"center",justifyContent:"center"},variants:{inline:{true:{display:"inline-flex"}}}});a.displayName="Center";export{a as C};
