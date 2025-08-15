@@ -1,0 +1,1 @@
+import{r as e,j as a,cC as r,aS as o}from"./DpllG3oaiO1A.js";import{I as n}from"./D9e8yAMoYQba.js";const u=e.forwardRef(function(t,s){return a.jsx(n,{variant:"ghost","aria-label":"Close",ref:s,...t,children:t.children??a.jsx(r,{})})}),c=o("div",{base:{flex:1,justifySelf:"stretch",alignSelf:"stretch"}});c.displayName="Spacer";export{u as C,c as S};
