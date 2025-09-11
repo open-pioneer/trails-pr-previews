@@ -1,1 +1,0 @@
-import{r as p,g as n,j as a,T as i}from"./Dwr9Ck4m185n.js";import{a as m}from"./BTmXjwTwefwd.js";import{u}from"./LrAZ3rBku366.js";const t=p.forwardRef((e,r)=>{const o=u(),s=n(o?.getInputProps(),e);return a.jsx(m.input,{...s,ref:r})});t.displayName="FieldInput";const{withContext:c}=i({key:"input"}),l=c(t);export{l as I};
