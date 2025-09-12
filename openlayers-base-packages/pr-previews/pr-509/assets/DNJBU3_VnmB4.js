@@ -1,1 +1,0 @@
-import{cE as s,cF as o}from"./r8eitCMc1E4Z.js";const c=o();class p extends s{constructor(r,t,e){e||c(),super(r,t,e)}get type(){return"simple"}get legend(){}get layers(){}get sublayers(){}}export{p as S};
