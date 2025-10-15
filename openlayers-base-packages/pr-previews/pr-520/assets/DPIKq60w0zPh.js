@@ -1,0 +1,1 @@
+import{aS as e}from"./D49-7-jjaxTt.js";const a=e("div",{base:{display:"flex",alignItems:"center",justifyContent:"center"},variants:{inline:{true:{display:"inline-flex"}}}});a.displayName="Center";export{a as C};
