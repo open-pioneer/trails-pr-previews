@@ -1,1 +1,0 @@
-import{d as c,j as d,t as p}from"./y_7xChuH8DPb.js";const j=c.forwardRef(function(s,e){const{direction:i,align:r,justify:t,wrap:n,basis:a,grow:l,shrink:x,inline:f,...o}=s;return d.jsx(p.div,{ref:e,...o,css:{display:f?"inline-flex":"flex",flexDirection:i,alignItems:r,justifyContent:t,flexWrap:n,flexBasis:a,flexGrow:l,flexShrink:x,...s.css}})});j.displayName="Flex";export{j as F};
