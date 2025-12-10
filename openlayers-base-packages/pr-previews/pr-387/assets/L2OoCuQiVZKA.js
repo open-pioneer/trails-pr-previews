@@ -1,1 +1,0 @@
-import{r as e,j as s,d1 as o,o as r}from"./DKeEYLXNUQaK.js";import{I as n}from"./01GdFc1yTDpL.js";const l=e.forwardRef(function(t,a){return s.jsx(n,{variant:"ghost","aria-label":"Close",ref:a,...t,children:t.children??s.jsx(o,{})})});l.displayName="CloseButton";const c=r("div",{base:{flex:1,justifySelf:"stretch",alignSelf:"stretch"}});c.displayName="Spacer";export{l as C,c as S};
