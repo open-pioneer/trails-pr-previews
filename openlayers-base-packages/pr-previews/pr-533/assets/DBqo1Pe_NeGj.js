@@ -1,0 +1,1 @@
+import{r as s,j as t,cP as n}from"./DyMvj1XEmnYh.js";import{I as a}from"./C04vCy2DTDEY.js";const l=s.forwardRef(function(o,r){return t.jsx(a,{variant:"ghost","aria-label":"Close",ref:r,...o,children:o.children??t.jsx(n,{})})});export{l as C};
