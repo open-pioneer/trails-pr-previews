@@ -1,1 +1,0 @@
-import{r,j as t,cU as a}from"./-SzxUPYK5IJF.js";import{I as e}from"./DF02jJ5L4CCl.js";const n=r.forwardRef(function(o,s){return t.jsx(e,{variant:"ghost","aria-label":"Close",ref:s,...o,children:o.children??t.jsx(a,{})})});n.displayName="CloseButton";export{n as C};
