@@ -4,11 +4,12 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>API Sample</title>
-      <script type="module" crossorigin src="../../assets/ItwPre3hagRO.js"></script>
-      <link rel="modulepreload" crossorigin href="../../assets/CvD7BdEqjbOZ.js">
-      <link rel="modulepreload" crossorigin href="../../assets/B-d_akJ3QgN7.js">
-      <link rel="modulepreload" crossorigin href="../../assets/Di2mDJbt-V61.js">
-      <link rel="modulepreload" crossorigin href="../../assets/BWRwcnhX7EFQ.js">
+      <script type="module" crossorigin src="../../assets/B5S_l3ZEFgp6.js"></script>
+      <link rel="modulepreload" crossorigin href="../../assets/DNTsZKb_nvgj.js">
+      <link rel="modulepreload" crossorigin href="../../assets/DoCgKG93fVO2.js">
+      <link rel="modulepreload" crossorigin href="../../assets/DYWw3mQomaz-.js">
+      <link rel="modulepreload" crossorigin href="../../assets/C0d7hVBCHjj1.js">
+      <link rel="modulepreload" crossorigin href="../../assets/A4HTpS2N5hmX.js">
     </head>
     <body>
         <api-app id="app"></api-app>
@@ -20,12 +21,17 @@
 
         customElements.whenDefined("api-app").then(() => {
             const app = document.getElementById("app");
-            app.when().then((api) => {
-                let count = 0;
-                setInterval(() => {
-                    api.changeText(`Text has been changed ${++count} times.`);
-                }, 1000);
-            });
+            app.when().then(
+                (api) => {
+                    let count = 0;
+                    setInterval(() => {
+                        api.changeText(`Text has been changed ${++count} times.`);
+                    }, 1000);
+                },
+                (error) => {
+                    console.error("App did not initialize", error);
+                }
+            );
         });
     </script>
 </html>
