@@ -1,1 +1,0 @@
-import{bg as e}from"./B87tt9X7wFle.js";const n=e("div",{base:{display:"flex",alignItems:"center",justifyContent:"center"},variants:{inline:{true:{display:"inline-flex"}}}});n.displayName="Center";export{n as C};
