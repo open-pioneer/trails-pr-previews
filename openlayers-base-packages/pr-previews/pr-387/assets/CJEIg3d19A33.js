@@ -1,1 +1,0 @@
-import{r as a,j as o}from"./BrKh7122M6TE.js";import{C as i,a as h,b as C,d as b,c as d}from"./C_CrDU6A-JtV.js";const k=a.forwardRef(function(s,e){const{icon:t,children:r,inputProps:c,rootRef:n,...x}=s;return o.jsxs(i,{ref:n,...x,children:[o.jsx(h,{ref:e,...c}),o.jsx(C,{children:t||o.jsx(b,{})}),r!=null&&o.jsx(d,{children:r})]})});export{k as C};
