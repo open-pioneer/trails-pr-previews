@@ -1,0 +1,1 @@
+import{Zr as e}from"./xdkzL2LppNtn.js";var t=e(`div`);t.displayName=`Box`;export{t};
