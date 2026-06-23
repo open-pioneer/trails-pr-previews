@@ -1,0 +1,1 @@
+import{ei as e}from"./DF37JMHDZYbW.js";var t=e(`div`);t.displayName=`Box`;export{t};
