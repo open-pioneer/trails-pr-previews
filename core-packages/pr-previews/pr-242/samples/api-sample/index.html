@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type="image/x-icon" href="../../assets/favicon-CMHk4Wkk.ico" />
+        <title>API Sample</title>
+      <script type="module" crossorigin src="../../assets/Cn2AA_0oNzyR.js"></script>
+      <link rel="modulepreload" crossorigin href="../../assets/COZtcVoUPg6L.js">
+      <link rel="modulepreload" crossorigin href="../../assets/Dezn_h7oUBgS.js">
+      <link rel="modulepreload" crossorigin href="../../assets/Qhe8GlVD9RCm.js">
+      <link rel="modulepreload" crossorigin href="../../assets/CAvqMf6yEZJ2.js">
+      <link rel="modulepreload" crossorigin href="../../assets/CaAtE_QfOkQn.js">
+      <link rel="modulepreload" crossorigin href="../../assets/hdbVlGXj3Qlz2.js">
+    </head>
+    <body>
+        <api-app id="app"></api-app>
+    </body>
+    <script>
+        document.getElementById("app").addEventListener("my-custom-event", (event) => {
+            console.log("Got event from app:", event);
+        });
+
+        customElements.whenDefined("api-app").then(() => {
+            const app = document.getElementById("app");
+            app.when().then(
+                (api) => {
+                    let count = 0;
+                    setInterval(() => {
+                        api.changeText(`Text has been changed ${++count} times.`);
+                    }, 1000);
+                },
+                (error) => {
+                    console.error("App did not initialize", error);
+                }
+            );
+        });
+    </script>
+</html>
