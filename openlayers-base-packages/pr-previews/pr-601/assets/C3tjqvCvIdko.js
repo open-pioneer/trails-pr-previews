@@ -1,0 +1,1 @@
+import{Na as e,Ya as t,io as n}from"./yLw6Zvf7fH3g.js";function r(r){let i=()=>{let e=n(r);r.dispatchEvent(new e.MouseEvent(`click`))};t()?e(r,`keyup`,i):queueMicrotask(i)}export{r as t};
