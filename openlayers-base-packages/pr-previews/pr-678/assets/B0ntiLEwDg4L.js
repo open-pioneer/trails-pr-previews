@@ -1,0 +1,1 @@
+import{Pa as e,Xa as t,ao as n}from"./C61mGpfUs1s3.js";function r(r){let i=()=>{let e=n(r);r.dispatchEvent(new e.MouseEvent(`click`))};t()?e(r,`keyup`,i):queueMicrotask(i)}export{r as t};
