@@ -1,0 +1,1 @@
+import{Ia as e}from"./B72TD0BVpCSJ.js";function t(e){return e.scrollHeight>e.clientHeight||e.scrollWidth>e.clientWidth}function n(n,r){let{rootEl:i,...a}=r||{};!n||!i||!e(i)||!t(i)||n.scrollIntoView(a)}export{n as t};

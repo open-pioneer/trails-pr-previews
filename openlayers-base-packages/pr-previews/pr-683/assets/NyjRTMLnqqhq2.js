@@ -1,0 +1,1 @@
+import{i as e}from"./8BhlS34szdCw.js";import{Li as t,ds as n,ms as r}from"./B72TD0BVpCSJ.js";import{t as i}from"./C8j4J5GKKhPM2.js";var a=n(),o=e(r(),1).forwardRef(function(e,n){return(0,a.jsx)(i,{variant:`ghost`,"aria-label":`Close`,ref:n,...e,children:e.children??(0,a.jsx)(t,{})})});o.displayName=`CloseButton`;export{o as t};
