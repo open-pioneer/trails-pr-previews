@@ -1,0 +1,1 @@
+import"./P2Xu9kJm-Jyv.js";var e=document.getElementById(`build-date`);e.textContent=new Date(1787753450213).toISOString();
