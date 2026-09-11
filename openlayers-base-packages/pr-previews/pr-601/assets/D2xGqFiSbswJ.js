@@ -1,0 +1,1 @@
+import{Ra as e,to as t,uo as n}from"./t-iywJg4ySON.js";function r(r){let i=()=>{let e=n(r);r.dispatchEvent(new e.MouseEvent(`click`))};t()?e(r,`keyup`,i):queueMicrotask(i)}export{r as t};
