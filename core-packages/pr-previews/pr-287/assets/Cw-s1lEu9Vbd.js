@@ -1,0 +1,1 @@
+import{ei as e}from"./CcB4XDBr_kou.js";var{withContext:t,PropsProvider:n}=e({key:`container`}),r=t(`div`);export{r as t};
