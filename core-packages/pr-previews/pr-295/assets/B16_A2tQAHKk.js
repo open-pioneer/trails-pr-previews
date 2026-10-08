@@ -1,1 +1,0 @@
-import{ei as e}from"./D2Fpv2ZRON5J.js";var{withContext:t,PropsProvider:n}=e({key:`text`}),r=t(`p`);export{r as t};
