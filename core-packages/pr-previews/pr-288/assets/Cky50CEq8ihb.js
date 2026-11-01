@@ -1,1 +1,0 @@
-var e=JSON.parse(`{"roving-menu-app":{}}`);export{e as default};

@@ -1,1 +1,0 @@
-var e=JSON.parse(`{"no-shadowroot-sample":{},"@open-pioneer/notifier":{"regionLabel":"Notifications","notification.close":"Close notification"}}`);export{e as default};
