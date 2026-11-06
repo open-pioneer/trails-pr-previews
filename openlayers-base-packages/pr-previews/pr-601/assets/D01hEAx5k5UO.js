@@ -1,1 +1,0 @@
-import{Ea as e,zo as t}from"./DtRhLFOAepN0.js";var[n,r]=t({name:`RenderStrategyContext`,hookName:`useRenderStrategyContext`,providerName:`<RenderStrategyPropsProvider />`}),i=t=>e()(t,[`lazyMount`,`unmountOnExit`,`hideMode`]);export{i as n,r,n as t};
