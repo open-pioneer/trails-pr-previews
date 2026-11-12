@@ -1,0 +1,1 @@
+import{Ro as e,Ta as t}from"./BVDP4qNI-WCx.js";var[n,r]=e({name:`RenderStrategyContext`,hookName:`useRenderStrategyContext`,providerName:`<RenderStrategyPropsProvider />`}),i=e=>t()(e,[`lazyMount`,`unmountOnExit`,`hideMode`]);export{i as n,r,n as t};

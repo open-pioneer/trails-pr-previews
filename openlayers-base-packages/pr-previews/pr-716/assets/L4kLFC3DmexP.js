@@ -1,1 +1,0 @@
-import{Ro as e,Ta as t}from"./tVyHVTlMtuMI.js";var[n,r]=e({name:`RenderStrategyContext`,hookName:`useRenderStrategyContext`,providerName:`<RenderStrategyPropsProvider />`}),i=e=>t()(e,[`lazyMount`,`unmountOnExit`,`hideMode`]);export{i as n,r,n as t};
