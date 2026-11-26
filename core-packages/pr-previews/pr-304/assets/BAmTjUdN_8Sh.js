@@ -1,0 +1,1 @@
+import{fi as e}from"./DQd00V_0zGpt.js";var t=e(`div`);t.displayName=`Box`;export{t};

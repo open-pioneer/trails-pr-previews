@@ -1,0 +1,1 @@
+import{ci as e}from"./DQd00V_0zGpt.js";var{withContext:t,PropsProvider:n}=e({key:`container`}),r=t(`div`);export{r as t};
